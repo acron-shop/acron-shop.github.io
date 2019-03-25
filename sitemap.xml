@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://acronshop.ro/blog/are-you-doing-the-right-way/</loc>
+    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acronshop.ro/blog/simple-post-title/</loc>
+    <lastmod>2018-09-12T14:39:16+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acronshop.ro/blog/simple-image-post/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acronshop.ro/author/jamica-jock/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acronshop.ro/author/john-doe/</loc>
+    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acronshop.ro/author/somrat/</loc>
+    <lastmod>2018-09-12T14:39:16+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://acronshop.ro/</loc>
+    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://acronshop.ro/author/</loc>
+    <lastmod>2018-09-12T12:52:36+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://acronshop.ro/blog/</loc>
+    <lastmod>2018-09-12T14:51:12+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://acronshop.ro/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://acronshop.ro/tags/golang/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://acronshop.ro/blog/installation/</loc>
+  </url>
+  
+  <url>
+    <loc>https://acronshop.ro/tags/hugo/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://acronshop.ro/tags/programming/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://acronshop.ro/categories/starting/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://acronshop.ro/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://acronshop.ro/tags/theme/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://acronshop.ro/author/themefisher/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
